@@ -1,0 +1,44 @@
+/*
+Theme Name:  WBXPress One
+Theme URI:   http://wbxpress.net/themes/
+Author:      WBXPress
+Author URI:  http://wbxpress.net/
+Description: It is a very clean and simple theme for Your WordPress site.
+Version:     1.0.0
+License:     GPL
+License URI: http://www.gnu.org/licenses/gpl.html
+Tags:        blue, white, light, fluid-layout, responsive-layout, two-columns, right-sidebar, custom-menu, sticky-post, threaded-comments
+Text Domain: wbxpress-one
+*/
+
+#container {
+   width: 95%;
+   margin: 0 auto;
+}
+
+#header, #main, #footer {
+   width: 100%;
+}
+
+#main-content {
+   width: 60%;
+   float: left;
+}
+
+#sidebar {
+   width: 40%;
+   float: left;
+}
+
+#foot-1, #foot-2, #foot-3 {
+   width: 32%;
+   float: left;
+}
+
+#footer-credit {
+float: right;
+}
+
+#footer {
+   clear: both;
+}
